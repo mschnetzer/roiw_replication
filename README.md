@@ -1,6 +1,6 @@
-## Reproduction repository
+## Replication repository
 
-This repository provides the database and reproduction code for the paper: 
+This repository provides the database and replication code for the paper: 
 
 **Fairness Perceptions of Wealth Inequality in Europe**<br>
 by Julia Hofmann, Markus Marterbauer, and Matthias Schnetzer<br>
